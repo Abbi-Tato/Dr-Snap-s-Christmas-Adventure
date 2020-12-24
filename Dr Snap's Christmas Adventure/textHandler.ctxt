@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=textHandler
+comment1.params=progress
+comment1.target=void\ progressCycle(int)
+comment2.params=progress
+comment2.target=void\ choiceMaker(int)
+comment3.params=
+comment3.target=void\ endingChooser()
+comment4.params=
+comment4.target=java.util.ArrayList\ dialoguefileReader()
+comment5.params=
+comment5.target=java.util.ArrayList\ choiceAfileReader()
+comment6.params=
+comment6.target=java.util.ArrayList\ choiceBfileReader()
+comment7.params=
+comment7.target=java.util.ArrayList\ choiceCfileReader()
+numComments=8

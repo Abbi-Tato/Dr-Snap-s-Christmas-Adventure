@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=drSnapAdventureMain
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=window
+comment2.target=void\ start(javafx.stage.Stage)
+comment3.params=event
+comment3.target=void\ button1Click(javafx.event.ActionEvent)
+comment4.params=event
+comment4.target=void\ button2Click(javafx.event.ActionEvent)
+comment5.params=event
+comment5.target=void\ button3Click(javafx.event.ActionEvent)
+comment6.params=event
+comment6.target=void\ advanceButtonClick(javafx.event.ActionEvent)
+numComments=7
